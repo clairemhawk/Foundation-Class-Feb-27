@@ -1,0 +1,117 @@
+/* BASE STYLES --------*/
+
+body {
+  background: #ffffff;
+  color: #967878;
+  font-size: 15px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 50px;
+}
+
+h2 {
+  color: #503226;
+  font-size: 26px;
+}
+
+h3 {
+  color: #503226;
+  font-size: 18px;
+}
+
+
+/* COMPONENT STYLES --------*/
+
+/* HEADER --*/
+.header {
+  /* We'll add more styles here later */
+}
+
+.header img{
+  width: 50px;
+  float: left;
+  margin: 10px 20px;
+}
+
+.nav{
+  display: inline-block;
+  width: 90%;
+}
+
+.navLeft{
+  float:left;
+  text-transform: uppercase;
+  color: #FA6311
+}
+
+.navRight{
+  float:right;
+  text-transform: capitalize;
+  color: #ef8f7a
+}
+
+.navLink{
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.product-spotlight {
+  background: #FF512F;
+  color: #ffffff;
+  clear: both;
+  height: 400px;
+}
+
+.product-spotlight{
+  font-family:sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.bannerSection{
+  float: left;
+  width: 48%;
+  padding: 10px;
+}
+
+.bannerSection img{
+  width: 300px;
+  display: block;
+  margin: 10px auto;
+}
+
+.bannerLeft a{
+  text-transform: uppercase;
+  color: white;
+}
+
+.bannerRight{
+  color: white
+}
+
+.product-details {
+  /* We'll add more styles here later */
+}
+
+.more-products {
+  background: #FF512F;
+}
+
+.more-products h2 {
+  background: #ffffff;
+}
+
+.more-products a {
+  width: 33%
+  float: left;
+  padding: 15px;
+}
+
+.more-products h3 {
+  color: #ffffff;
+}
+
+footer {
+  /* We'll add more styles here later */
